@@ -1,6 +1,4 @@
-#set multiplot layout 3,2
 m="./solow_stochastic_output.txt"
-#set tmargin 2
 
 set terminal qt 0
 set key
@@ -37,5 +35,3 @@ set key
 set xlabel "Time"
 set title "Marginal productivity"
 plot m using 1:12 with lines title "exact" lt 7, m using 1:13 with lines title "approx" lt -1 dt 2
-
-#unset multiplot
