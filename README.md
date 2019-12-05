@@ -5,7 +5,7 @@ The files collected in this repository reproduce the numerical solutions to dyna
 
 The previous files are accompanied by a collection of routines that are commonly used for computational economics: [routines_econ.f90.](https://github.com/montesinosmv/economic_growth/blob/master/routines_econ.f90)
 
-# References
+## References
 - [Fehr, H., and Kindermann, F. (2018): "Introduction to Computational Economics using Fortran", Oxford.](https://www.ce-fortran.com/)
 - [Novales, A., Fernandez, E., Ruiz, J. (2009): "Economic Growth. Theory and Numerical Solutions", Springer.](https://www.springer.com/gp/book/9783540686699)
 - [Solow, R.M. (1956): "A contribution to the theory of economic growth", Quarterly Journal of Economics 70(1): 65–94.](https://academic.oup.com/qje/article-abstract/70/1/65/1903777?redirectedFrom=fulltext)
