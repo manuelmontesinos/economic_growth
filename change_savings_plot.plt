@@ -1,4 +1,4 @@
-cd 'C:\Users\MV Montesinos\Documents\Universidad\Programming\fortran_code\fernandez_novales_ruiz\Chapter2'
+cd ''
 m="./change_savings_output.txt"
 
 set terminal qt 0
